@@ -1,0 +1,32 @@
+
+1 VERSIONINFO
+FILEVERSION 1,133,0,219
+PRODUCTVERSION 1,133,0,219
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "Comments", "Player Capable of playing diffrerent media files."
+		VALUE "CompanyName", "Kiransoft"
+		VALUE "FileDescription", "KiranPlayer 1.133"
+		VALUE "LegalCopyright", "kiran pantha kiransoft Nepal 2009-2012"
+		VALUE "LegalTrademarks", "kiransoft Nepal"
+		VALUE "ProductName", "KiranPlayer"
+		VALUE "FileVersion", "1.133.0219"
+		VALUE "ProductVersion", "1.133.0219"
+		VALUE "InternalName", "kiranplayer"
+		VALUE "OriginalFilename", "kiranplayer.exe"
+		VALUE "Email", "kiran@kiranpantha.tk"
+		VALUE "URL", "www.kiranpantha.tk"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
+
